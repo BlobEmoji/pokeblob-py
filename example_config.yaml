@@ -1,0 +1,15 @@
+token: beep.bbop.secret
+
+prefix: 'blob '
+
+admin_users:
+  - 69198249432449024   # frostluma
+  - 122122926760656896  # devon
+  - 240973228632178689  # oceanlord
+
+pg_credentials:
+  host: db
+  port: 5432
+  user: postgres
+  database: blobs
+  password: shh
